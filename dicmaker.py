@@ -72,7 +72,6 @@ def main():
 
     transformations = 0
 
-    #list = ['chalmin', 'sylvie', 'family', 'ganja', 'auron', '06' ]
     wordlist = wordlist.split(",")
 
     listcap = []
